@@ -1,0 +1,17 @@
+#btn__create {
+  margin-left: 5px;
+  margin-bottom: 10px;
+  padding: 10px 15px;
+  border-radius: 5%;
+}
+
+.div__new {
+  padding: 5px;
+  margin: 5px;
+  margin-bottom: 15px;
+}
+
+.div--red {
+  background-color: red;
+}
+
